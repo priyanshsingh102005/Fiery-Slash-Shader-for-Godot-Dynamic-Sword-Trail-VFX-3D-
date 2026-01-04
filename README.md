@@ -13,6 +13,13 @@ This shader combines animated noise, glowing gradients, flicker control, UV dist
 
 ---
 
+## 🎮 Demo
+<a href="https://godotshaders.com/shader/slash-shader/">
+  <img src="media/SLASH.gif" width="600" alt="Fiery Slash Shader Demo">
+</a>
+
+---
+
 ## 🔥 Features
 - Noise-based distortion for organic motion  
 - Time-driven flicker and intensity control  
