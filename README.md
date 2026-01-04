@@ -35,6 +35,15 @@ All parameters can be adjusted directly from the **Inspector**.
 
 ---
 
+## Use Cases
+- Sword slash VFX  
+- Energy blade attacks  
+- Special skill effects  
+- Boss attack visuals  
+- Stylized combat systems
+
+---
+
 ## 🧩 Requirements
 - Requires a **custom mesh** to display correctly  
 - Mesh and textures are included in the demo project  
