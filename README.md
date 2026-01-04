@@ -7,7 +7,7 @@ This shader combines animated noise, glowing gradients, flicker control, UV dist
 ---
 
 ## 🎮 Tutorial Vidoe
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+<a href="https://youtu.be/xV3y3iBSbvI">
   <img src="media/video.png" width="600" alt="Fiery Slash Shader Preview">
 </a>
 
